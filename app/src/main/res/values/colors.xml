@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkerlightblue">#79D0EC</color>
+    <color name = "coral">#FF7F50</color>
+    <color name="dark">#2c302e</color>
+    <color name="process">#5DB7DE</color>
+    <color name="colorWhite">#E7E8EC</color>
+    <color name="colorOffWhite">#B8BCCA</color>
+    <color name="colorLightBlue">#333D5F</color>
+    <color name="dark2">#909590</color>
+    <color name="dark3">#474a48</color>
+</resources>
